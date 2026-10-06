@@ -2,7 +2,6 @@
 
 A practical, beginner-to-advanced learning repository covering **AI security**, **OWASP for AI**, **AI risk management** and **AI compliance**.
 
-> Last reviewed: October 2026. AI standards and laws change quickly. Always verify against the official sources linked in [`09-reference/resources.md`](09-reference/resources.md).
 > This is educational material, not legal advice.
 
 ## How to use this repo
