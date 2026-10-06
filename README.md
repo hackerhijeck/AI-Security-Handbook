@@ -32,7 +32,3 @@ A practical, beginner-to-advanced learning repository covering **AI security**, 
 - **NIST AI RMF**: Govern, Map, Measure, Manage.
 - **ISO/IEC 42001**: certifiable AI management system standard.
 - **EU AI Act**: risk-based law; high-risk obligations postponed by the Digital Omnibus (see compliance folder).
-
-## License
-
-Content: CC BY 4.0 (suggested). Add a `LICENSE` file of your choice before publishing.
