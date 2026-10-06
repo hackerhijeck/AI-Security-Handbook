@@ -1,0 +1,31 @@
+# Glossary
+
+- **Adversarial example**: input crafted to fool a model.
+- **AI-BOM**: inventory of AI components (models, datasets, libraries).
+- **Agent**: LLM system that plans and acts with tools.
+- **Alignment**: making AI behave per human intent and values.
+- **Backdoor**: hidden trigger causing malicious model behavior.
+- **Confused deputy**: a privileged component tricked into misusing authority.
+- **DLP**: data loss prevention.
+- **DPIA**: data protection impact assessment.
+- **Embedding**: vector representation of data.
+- **Excessive agency**: giving AI more power than needed.
+- **FRIA**: fundamental rights impact assessment (EU AI Act).
+- **GPAI**: general-purpose AI model.
+- **Guardrails**: controls restricting AI inputs/outputs/actions.
+- **Hallucination**: confident but false output.
+- **Human-in-the-loop (HITL)**: human approves or reviews AI actions.
+- **Jailbreak**: bypassing a model's safety behavior.
+- **Least agency**: minimal autonomy needed for a task.
+- **LLM**: large language model.
+- **MCP**: Model Context Protocol.
+- **Membership inference**: determining if data was in the training set.
+- **Model extraction**: copying a model's behavior via queries.
+- **Model inversion**: reconstructing training data from a model.
+- **Poisoning**: corrupting training or retrieval data.
+- **Prompt injection**: malicious instructions that alter model behavior.
+- **RAG**: retrieval-augmented generation.
+- **Red teaming**: adversarial testing.
+- **Shadow AI**: unsanctioned AI use.
+- **System prompt**: developer instructions given to the model.
+- **Vector database**: store for embeddings.
